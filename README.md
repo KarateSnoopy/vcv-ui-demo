@@ -1,4 +1,4 @@
-# vcv-ui-test
+# vcv-ui-demo
 
 * UI demo plugin for VCV Rack v0.4.0 https://vcvrack.com/.
 * Doesn't do audio.
